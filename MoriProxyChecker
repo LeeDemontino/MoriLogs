@@ -1,3 +1,9 @@
+[1.2.1 - 11.14.2024]
+[-] Publishing to GhostBin (rip)
+[+] Parse from url - fixed
+[+] Parse country - fixed
+[+] Source code rework
+
 [1.1.0 - 23.01.2021]
 [+] Publishing to Ghostbin
 [+] Packaging all countries in a zip archive
